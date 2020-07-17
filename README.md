@@ -1,5 +1,5 @@
 # Test the stability of Predictions API's
-Async amount of requests and check if outcome is steady using deepStrictEqual.
+Async amount of requests and check if outcome is steady using deepStrictEqual.  
 Originally needed to test if TensorFlow 2 is thread safe.
 
 ## TL;DR
