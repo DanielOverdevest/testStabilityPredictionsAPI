@@ -1,0 +1,26 @@
+{
+  "name": "testStabilityPredictionsAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "axios": "^0.19.2",
+    "yargs": "^15.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "fetch": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielOverdevest/testStabilityPredictionsAPI.git"
+  },
+  "keywords": [],
+  "author": "Daniel Overdevest",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielOverdevest/testStabilityPredictionsAPI/issues"
+  },
+  "homepage": "https://github.com/DanielOverdevest/testStabilityPredictionsAPI#readme"
+}
